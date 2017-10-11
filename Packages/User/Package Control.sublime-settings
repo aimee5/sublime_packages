@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"ConvertToUTF8",
+		"Emmet",
+		"JavaScript Completions",
+		"JsFormat",
+		"LaTeX Word Count",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeTmpl",
+		"SyncedSideBar",
+		"Terminal",
+		"Trimmer",
+		"WordCount"
+	]
+}
